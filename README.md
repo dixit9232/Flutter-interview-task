@@ -18,5 +18,6 @@ To use this project, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dixit9232/flutter_bloc_app.git
-cd flutter_bloc_app
+https://github.com/dixit9232/Flutter-interview-task.git
+flutter pub get 
+flutter run
